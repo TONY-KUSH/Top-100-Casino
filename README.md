@@ -1,4 +1,4 @@
-# Top 100 Casino
+# Top 100 Casino (Коммерческий проект, верстка макета)
 ## Румынское казино
 - 1 страница [Ссылка](https://tony-kush.github.io/Top-100-Casino/)
-- HTML, SCSS, Flex, Grid, JS
+- Адаптивная кроссбраузерная верстка (HTML, SCSS, Flex, Grid, JS)
